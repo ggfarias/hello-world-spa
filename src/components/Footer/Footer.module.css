@@ -1,0 +1,16 @@
+
+.footer {
+    background-color: #041833;
+    color: #FFFFFF;
+    padding: 2rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: .5rem;
+    font-size: 1.125rem;
+}
+
+.footer img {
+    max-width: 75px;
+    max-width: 75px;
+}
